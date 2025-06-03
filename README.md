@@ -1,6 +1,6 @@
 ## Hello world, 
-
-I'm Annabelle aka ena, a Human being with a ❤️ for clean code, human-centered design, digital accessibility and cute/nerdy stuff.  
+I'm a Human being working as a UX designer with a growing passion for writing code.
+Currently learning and passionate about clean code, human-centered design, digital accessibility and all things cute & nerdy.
 
 <!--
 **enaaacode/enaaacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
