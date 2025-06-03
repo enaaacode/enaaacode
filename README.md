@@ -1,24 +1,6 @@
-# Hi, I'm Annabelle 👋
+Hello world, I'm Annabelle aka ena 👋
 
-UX designer with a ❤️ for clean code, human-centered design, and digital accessibility.  
-I love tinkering with small coding projects – always with a dash of nerdy humor.  
-My favorite tools? HTML, CSS, and good old Vanilla JavaScript.  
-
-## Tools & Tech
-`HTML` `CSS` `JavaScript` `Python` `WCAG 2.1`
-
-![Stats](https://github-readme-stats.vercel.app/api?username=enaaacode&show_icons=true&theme=default)
-
-## What I focus on
-- Accessible UX/UI design based on WCAG 2.1
-- Human-centered design 
-- Lightweight, sustainable frontend development (HTML, CSS, JS)
-- Clear, structured concepts & lovely little solutions
-
-## Contact
-🌐 [annabelle-feiler.com](https://annabelle-feiler.com)  
-💌 hello[at]annabelle-feiler[dot]com
-
+Human being with a ❤️ for clean code, human-centered design, digital accessibility and cute/nerdy stuff.  
 
 <!--
 **enaaacode/enaaacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
