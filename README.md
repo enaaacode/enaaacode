@@ -1,5 +1,4 @@
-Hello world, I'm Annabelle aka ena 👋
-
+**Hello world, I'm Annabelle aka ena** 
 Human being with a ❤️ for clean code, human-centered design, digital accessibility and cute/nerdy stuff.  
 
 <!--
