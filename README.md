@@ -1,4 +1,3 @@
-### Hi, take a seat 👋
+### Hej 👋
 
-I'm Annabelle, but you can call me Ena.  
-I enjoy creating stuff, exploring ideas and turning them into something real.
+You can call me Ena, and I enjoy creating stuff and exploring ideas.
